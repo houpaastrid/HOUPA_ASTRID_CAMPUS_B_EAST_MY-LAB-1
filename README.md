@@ -6,7 +6,7 @@ I am a software student at Yibs and I want to be a full stack developper
 ##### Smart move 
 ###### Go ahead 
 my name is houpa astrid   
-a student at yde international business school 
+a student at yde international business school  
 **Am Astrid Dior**  
 ***A student at yibs***
 
